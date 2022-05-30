@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node compile.js"
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
